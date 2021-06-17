@@ -1,0 +1,33 @@
+1.请对“数据库、CPU缓存、磁盘、内存”进行一个性能的排序
+2.启动memcache时，下列选项的意思是？
+-p	-u	-m	-c	 -d
+3.简单叙述cookie与session
+4.Nginx中如何设置缓存时间？
+5.请写出tomcat中下列目录的含义
+bin/
+logs/
+lib/
+conf
+webapps/
+6.请写出下列服务的端口号
+ftp  	 http  	nginx  	 pop3 
+telnet	 ssh 	imap 	 smtp 
+tftp  	 SVN    https 	 tomcat
+7.请写出下列字段在tomcat配置文件的含义
+appBase			docBase
+Host name		Context path
+8.请简述varnish
+9.请简述SVN
+10.请写出Subversion的三种通信方式
+11.请写出创建版本库的命令
+12.请写出svn命令测试svnserver服务时使用命令的作用
+add		commit（ci）		checkout（co）
+del		info			update		list
+diff	cat				import		log
+13.请写出启动SVN的命令。并解释-d、--listen-port=port、-r的意思
+14.请写出下列http状态码的含义
+301	 	500
+401		502
+414		403
+404		200
+15.请写出sed常见选项以及含义
